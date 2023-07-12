@@ -1,1 +1,2 @@
-print('hello.py')
+print('hello')
+print('WORD')
