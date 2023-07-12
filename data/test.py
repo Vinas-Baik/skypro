@@ -15,4 +15,6 @@ print(temp_player)
 print(temp_word)
 
 print(f'{temp_player!r}')
+print(f'{temp_word!r}')print(f'{temp_player!r}')
+print(f'{temp_word!r}')print(f'{temp_player!r}')
 print(f'{temp_word!r}')
